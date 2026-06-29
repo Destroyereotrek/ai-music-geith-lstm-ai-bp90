@@ -1,4 +1,4 @@
-# 
+# Avancé AI Music Generator with LSTM flux de travail. Avec apprentissage par transfert et réseaux de neurones — optimisé pour des performances maximales.
 
 
 
